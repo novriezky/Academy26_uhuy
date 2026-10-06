@@ -2,9 +2,7 @@
 
 int main(){
 
-    printf("Spontan\t");
-    printf("Uhuy");
-    print("ahahahahah");
+    printf("Ini branch baru");
 
     return 0;
 }
